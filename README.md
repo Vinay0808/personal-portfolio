@@ -1,2 +1,2 @@
 # personal-portfolio
-my personal portfolio website using javascript
+my personal portfolio website using javascript and bootstrap
